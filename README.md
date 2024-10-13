@@ -1,0 +1,1 @@
+This project compares various regularization (LASSO, Ridge, ElasticNet, Bayesian Ridge) and dimensionality reduction methods (PCA, PLS) for optimizing financial portfolios based on Sharpe Ratio and cumulative returns.
